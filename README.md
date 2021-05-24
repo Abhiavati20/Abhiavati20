@@ -13,7 +13,7 @@ I'm [Abhishek Avati](https://cyrus-1112.web.app/) a Full Stack Web Developer🚀
 
 
 <!-- TODO: Add last video link -->
-- 💻 Currently working on an Ecommerce project [Sadhana-Tea-Depot](https://executeit.ml) ;
+- 💻 Currently working on an Ecommerce project [Sadhana-Tea-Depot](https://sadhana-tea-depot.herokuapp.com/) ;
 - 🚀Web Developer Intern @ [GridGlob](https://gridglob.com/) ;
 - 💬 I'm Looking for Internship Opportunities ;
 
