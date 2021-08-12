@@ -34,10 +34,3 @@ I'm [Abhishek Avati](https://jolly-northcutt-76ebd8.netlify.app/) Pursuing Bache
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<br/>
-<br/>
-<br/>
-📈 My GitHub Stats
-<br/>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhiavati20&count_private=true&show_icons=true&theme=gotham" alt="AbhiAvati20" />
