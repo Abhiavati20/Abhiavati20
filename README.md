@@ -14,7 +14,7 @@ I'm [Abhishek Avati](https://jolly-northcutt-76ebd8.netlify.app/) Pursuing Bache
 
 <!-- TODO: Add last video link -->
 - 💬 I'm Looking for Internship Opportunities ;
-##### 💻 SOME TECHNOLOGIES I KNOW
+##### 💻 TECHNOLOGIES I KNOW
 
 <!-- TODO: Make technologies links takes you to repositories -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
