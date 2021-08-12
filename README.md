@@ -13,8 +13,6 @@ I'm [Abhishek Avati](https://jolly-northcutt-76ebd8.netlify.app/) Pursuing Bache
 
 
 <!-- TODO: Add last video link -->
-- 💻 Currently solving challenges on @[FrontendMentor](https://www.frontendmentor.io/solutions);
-- 🚀Web Developer Intern @ [GridGlob](https://gridglob.com/) ;
 - 💬 I'm Looking for Internship Opportunities ;
 ##### 💻 SOME TECHNOLOGIES I KNOW
 
