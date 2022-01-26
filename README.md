@@ -10,10 +10,6 @@ I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200" width="500" height="320" />
 
-
-
-<!-- TODO: Add last video link -->
-- 💬 I'm Looking for Internship Opportunities ;
 ##### 💻 TECHNOLOGIES I KNOW
 
 <!-- TODO: Make technologies links takes you to repositories -->
