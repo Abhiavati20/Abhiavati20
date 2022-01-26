@@ -4,7 +4,8 @@ I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@abhiavati-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abhiavati)](https://twitter.com/abhiavati) [![Linkedin Badge](https://img.shields.io/badge/-AbhishekAvati-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekavati/) [![Mail Badge](https://img.shields.io/badge/-@abhi.avati-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/abhi.avati/) [![Mail Badge](https://img.shields.io/badge/-Abhishek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abhishekaa1112@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AbhishekAvati-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekavati/)
+[![Mail Badge](https://img.shields.io/badge/-Abhishek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abhishekaa1112@gmail.com)
 [![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)](https://abhishek-two.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhiavati20.Abhiavati20)
 
