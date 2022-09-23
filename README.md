@@ -1,6 +1,13 @@
 ## Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="20px" alt="hi"> I'm Abhishek.
 #### 🎓 ABOUT ME
-I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree in Information Technology 💻, Summer Intern   Full Stack Web Developer🚀 and having keen interest in Web3 🦄 . I Spend most of time coding some scalable projects🚀 with clean UI components.
+I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree in Information Technology 💻, having keen interest in Web3 🦄 and Blockchain Technology. I Spend most of time coding some scalable projects🚀 with clean UI components.
+
+### Achievements and Experience 🚀:  
+
+##### Web3 Engineering Intern at [Community Gaming](https://www.communitygaming.io/) (Sept-2022 - Present)
+##### Winnner of Smart India Hackathon'22 (Role : Team Leader)!
+##### Former Summer Intern at UBS (May-2022 to July-2022)
+##### Full Stack Developer Intern at KnockOnce (Dec-2021 to Jan-2022)
 
 :mailbox: Reach me out!
 
