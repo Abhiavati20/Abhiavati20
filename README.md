@@ -5,7 +5,7 @@ I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree
 ### Achievements and Experience 🚀:  
 
 ##### Web3 Engineering Intern at [Community Gaming](https://www.communitygaming.io/) (Sept-2022 - Present)
-##### Winnner of Smart India Hackathon'22 (Role : Team Leader)!
+##### Winnner of Smart India Hackathon'22 (Role : Team Leader and blockchain devloper)!
 ##### Former Summer Intern at UBS (May-2022 to July-2022)
 ##### Full Stack Developer Intern at KnockOnce (Dec-2021 to Jan-2022)
 
