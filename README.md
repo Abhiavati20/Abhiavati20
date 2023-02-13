@@ -17,7 +17,7 @@ I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree
 [![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)](https://abhishek-two.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhiavati20.Abhiavati20)
 
-<img align="right" alt="GIF" src="[https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200](https://media.tenor.com/O4SKCLJNffEAAAAC/highest-high-five-barney-stinson.gif)" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/Ou_Z8Nm4V-UAAAAC/how-i-met-your-mother-himym.gif" width="500" height="320" />
 
 ##### 💻 TECHNOLOGIES I KNOW
 
