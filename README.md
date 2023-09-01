@@ -4,7 +4,7 @@ I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree
 
 ### Achievements and Experience 🚀:  
 
-##### SDE Intern at [HashCase](https://www.hashcase.co/) (Jan-2023 - present)
+##### SDE Intern at [HashCase](https://www.hashcase.co/) (Jan-2023 - July-2023)
 ##### Web3 Engineering Intern at [Community Gaming](https://www.communitygaming.io/) (Sept-2022 - Dec-2022)
 ##### Winnner of Smart India Hackathon'22 (Role : Team Leader and blockchain devloper)!
 ##### Former Summer Intern at UBS (May-2022 to July-2022)
