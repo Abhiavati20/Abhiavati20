@@ -23,9 +23,15 @@ I'm [Abhishek Avati](https://abhishekavati.xyz/) Full stack Engineer 💻, havin
 ##### 💻 TECHNOLOGIES I KNOW
 
 **Programming Languages & Frameworks:** C++, Kotlin, TypeScript, Spring Boot
+
 **Frontend Development:** React JS, Next JS, React Query, Tailwind CSS, Shadcn UI, React Table
+
 **Backend Development:** Node JS, Django, Prisma
+
 **Blockchain:** Ethereum, Solana, Wagmi, Hardhat, ethers, @solana/web3.js
+
 **Database:** PostgreSQL, Mongodb
+
 **DevOps & Tools:** Docker, Git, GitLab
+
 **Desktop Applications:** Electron JS
