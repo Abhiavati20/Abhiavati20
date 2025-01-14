@@ -1,9 +1,10 @@
 ## Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="20px" alt="hi"> I'm Abhishek.
 #### 🎓 ABOUT ME
-I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree in Information Technology 💻, having keen interest in Web3 🦄 and Blockchain Technology. I Spend most of time coding some scalable projects🚀 with clean UI components.
+I'm [Abhishek Avati](https://abhishekavati.xyz/) Full stack Engineer 💻, having keen interest in Web3 🦄 and Blockchain Technology. I Spend most of time coding some scalable projects🚀 with clean UI components.
 
 ### Achievements and Experience 🚀:  
-##### Software Engineer at UBS (Aug-2023 - present)
+##### Associate Full Stack Engineer at [Deeptek.ai](https://deeptek.ai/) (Nov-2023 - Present)
+##### Software Engineer at UBS (Aug-2023 - Nov 2023)
 ##### SDE Intern at [HashCase](https://www.hashcase.co/) (Jan-2023 - July-2023)
 ##### Web3 Engineering Intern at [Community Gaming](https://www.communitygaming.io/) (Sept-2022 - Dec-2022)
 ##### Winnner of Smart India Hackathon'22 (Role : Team Leader and blockchain devloper)!
@@ -21,21 +22,39 @@ I'm [Abhishek Avati](https://abhishek-two.vercel.app/) Pursuing Bachelors Degree
 
 ##### 💻 TECHNOLOGIES I KNOW
 
-<!-- TODO: Make technologies links takes you to repositories -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+- **Programming Languages & Frameworks**
+  - C++
+  - Kotlin
+  - TypeScript
+  - Spring Boot
 
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- **Frontend Development**
+  - React JS
+  - Next JS
+  - React Query
+  - Tailwind CSS
+  - Shadcn UI
+  - React Table
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Ant D](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design)
-![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+- **Backend Development**
+  - Node JS
+  - Django
+  - Prisma
+
+- **Blockchain**
+  - Ethereum
+  - Solana
+  - Wagmi
+
+- **Database**
+  - PostgreSQL
+
+- **DevOps & Tools**
+  - Docker
+  - Git
+  - GitLab
+
+- **Desktop Applications**
+  - Electron JS
+
 
