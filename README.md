@@ -15,7 +15,7 @@ I'm [Abhishek Avati](https://abhishekavati.xyz/) Full stack Engineer 💻, havin
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekAvati-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekavati/)
 [![Mail Badge](https://img.shields.io/badge/-Abhishek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abhishekaa1112@gmail.com)
-[![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)](https://abhishek-two.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)](https://abhishekavati.xyz/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhiavati20.Abhiavati20)
 
 <img align="right" alt="GIF" src="https://media.tenor.com/Ou_Z8Nm4V-UAAAAC/how-i-met-your-mother-himym.gif" width="500" height="320" />
