@@ -18,8 +18,6 @@ I'm [Abhishek Avati](https://abhishekavati.xyz/) Full stack Engineer 💻, havin
 [![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)](https://abhishekavati.xyz/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhiavati20.Abhiavati20)
 
-<img align="right" alt="GIF" src="https://media.tenor.com/Ou_Z8Nm4V-UAAAAC/how-i-met-your-mother-himym.gif" width="500" height="320" />
-
 ##### 💻 TECHNOLOGIES I KNOW
 
 **Programming Languages & Frameworks:** C++, Kotlin, TypeScript, Spring Boot
