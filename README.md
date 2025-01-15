@@ -1,6 +1,6 @@
 ## Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="20px" alt="hi"> I'm Abhishek.
 #### 🎓 ABOUT ME
-I'm [Abhishek Avati](https://abhishekavati.xyz/) Full stack Engineer 💻, having keen interest in Web3 🦄 and Blockchain Technology. I Spend most of time coding some scalable projects🚀 with clean UI components.
+I'm [Abhishek Avati](https://dub.sh/jFCv6eL) Full stack Engineer 💻, having keen interest in Web3 🦄 and Blockchain Technology. I Spend most of time coding some scalable projects🚀 with clean UI components.
 
 ### Achievements and Experience 🚀:  
 ##### Associate Full Stack Engineer at [Deeptek.ai](https://deeptek.ai/) (Nov-2023 - Present)
@@ -15,7 +15,7 @@ I'm [Abhishek Avati](https://abhishekavati.xyz/) Full stack Engineer 💻, havin
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekAvati-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekavati/)
 [![Mail Badge](https://img.shields.io/badge/-Abhishek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abhishekaa1112@gmail.com)
-[![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)](https://abhishekavati.xyz/)
+[![Website Badge](https://img.shields.io/badge/%3C%2F%3E-portfolio-informational)]([https://abhishekavati.xyz/](https://dub.sh/jFCv6eL))
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhiavati20.Abhiavati20)
 
 ##### 💻 TECHNOLOGIES I KNOW
